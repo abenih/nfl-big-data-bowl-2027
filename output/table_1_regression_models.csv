@@ -1,0 +1,5 @@
+Model Specification,Covariates,Sample Size (n),R²,Adj. R²,EBI Coef (p-val),40-Time Coef (p-val),AIC
+Model 1: Baseline Traditional (Pressure Rate),40-Yard Dash + Weight,44,0.145,0.103,N/A,-0.023 (p=0.541),-182.7
+Model 2: Augmented with EBI (Pressure Rate),40-Time + Weight + EBI,40,0.231,0.167,+0.168 (p=0.037*),-0.014 (p=0.700),-170.9
+Model 3: Augmented with EBI (Sack Rate),40-Time + Weight + EBI,40,0.111,0.037,+0.024 (p=0.207),+0.012 (p=0.165),-286.4
+Model 4: Augmented with EBI (Quick Pressure < 2.5s),40-Time + Weight + EBI,40,0.262,0.201,+0.086 (p=0.015*),-0.009 (p=0.576),-237.2
