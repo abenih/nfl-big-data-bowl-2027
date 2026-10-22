@@ -51,7 +51,7 @@ $$\text{EBI} = \frac{a_{c,\max} \times \text{SRR}}{T_{\text{hoop}} \cdot \left(1
 ---
 
 ### Figure 1: Hoop Drill Anatomy and Kinematics
-![Figure 1: Hoop Drill Anatomy](figures/figure_1_hoop_anatomy.png)
+![Figure 1: Hoop Drill Anatomy](https://raw.githubusercontent.com/abenih/nfl-big-data-bowl-2027/main/figures/figure_1_hoop_anatomy.png)
 
 *Figure 1: (A) 2D tracking of Laiatu Latu (EBI: 82.9) versus a high-drift edge rusher around the 5.62-yard Combine hoop. (B) Velocity $v(t)$ and centripetal acceleration $a_c(t)$ profiles over time.*
 
@@ -66,7 +66,7 @@ Linking Combine tracking with regular-season play outcomes for qualified edge ru
 ---
 
 ### Figure 2: Straight-Line Speed vs. Edge Bend
-![Figure 2: The Combine Stopwatch Illusion](figures/figure_2_combine_illusion.png)
+![Figure 2: The Combine Stopwatch Illusion](https://raw.githubusercontent.com/abenih/nfl-big-data-bowl-2027/main/figures/figure_2_combine_illusion.png)
 
 *Figure 2: (A) 40-yard dash time versus NFL sack rate shows no relationship ($p = 0.55$). (B) The tracking-derived Edge Bend Index shows a significant positive correlation with sack rate ($p = 0.018$).*
 
@@ -101,7 +101,7 @@ As shown in **Table 1**:
 ---
 
 ### Figure 3: Time-to-Pressure and Quick Pressure Rates
-![Figure 3: Time-to-Pressure Analysis](figures/figure_4_time_to_pressure.png)
+![Figure 3: Time-to-Pressure Analysis](https://raw.githubusercontent.com/abenih/nfl-big-data-bowl-2027/main/figures/figure_4_time_to_pressure.png)
 
 *Figure 3: (A) Quick pressure rates across EBI quartiles; top-quartile rushers generate quick pressures at nearly twice the rate of bottom-quartile rushers ($p=0.015$). (B) Cumulative distribution of time to pressure.*
 
@@ -118,7 +118,7 @@ The turning radius, curvature, and velocity retention observed in Indianapolis c
 ---
 
 ### Figure 4: Combine Drill vs. In-Game Strip Sack
-![Figure 4: Sunday Translation](figures/figure_5_sunday_translation.png)
+![Figure 4: Sunday Translation](https://raw.githubusercontent.com/abenih/nfl-big-data-bowl-2027/main/figures/figure_5_sunday_translation.png)
 
 *Figure 4: Comparison of Laiatu Latu's Combine Hoop Drill path (left) with his rush trajectory on a strip sack of Caleb Williams (right). Turning curvature and speed retention match between drill and game play.*
 
@@ -137,7 +137,7 @@ The lack of correlation among interior rushers confirms that EBI specifically re
 ---
 
 ### Figure 5: Scheme and Alignment Specificity
-![Figure 5: Scheme Specificity](figures/figure_6_scheme_specificity.png)
+![Figure 5: Scheme Specificity](https://raw.githubusercontent.com/abenih/nfl-big-data-bowl-2027/main/figures/figure_6_scheme_specificity.png)
 
 *Figure 5: EBI predicts pass rush pressure rate for perimeter edge rushers (left, $p=0.012$), but shows no relationship for interior defensive linemen (right, $p=0.835$).*
 
@@ -155,7 +155,7 @@ Plotting 40-yard sprint times against the Edge Bend Index creates an actionable 
 ---
 
 ### Figure 6: The 2x2 Edge Rusher Evaluation Matrix
-![Figure 6: The 2x2 Prospect Matrix](figures/figure_3_prospect_matrix.png)
+![Figure 6: The 2x2 Prospect Matrix](https://raw.githubusercontent.com/abenih/nfl-big-data-bowl-2027/main/figures/figure_3_prospect_matrix.png)
 
 *Figure 6: Prospect evaluation framework segmenting edge rushers by 40-yard dash speed and Edge Bend Index, with bubble size proportional to NFL pass rush volume.*
 
